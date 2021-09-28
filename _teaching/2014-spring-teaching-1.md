@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "TEaching Assistant, Linear Dynamical Systems"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Level course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "IIT Madras, Electrical Engineering"
+date: 2021-08-01
+location: "Chennai, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I was a teaching assistant for a Graduate Level course on Linear Dynamical Systems. My roles involved making assignments, setting question papers, and taking some classes.
