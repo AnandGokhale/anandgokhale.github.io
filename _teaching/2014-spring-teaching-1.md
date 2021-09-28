@@ -1,5 +1,5 @@
 ---
-title: "TEaching Assistant, Linear Dynamical Systems"
+title: "Teaching Assistant, Linear Dynamical Systems"
 collection: teaching
 type: "Graduate Level course"
 permalink: /teaching/2014-spring-teaching-1
