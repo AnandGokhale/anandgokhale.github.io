@@ -14,4 +14,4 @@ redirect_from:
 - My primary research interests are Networked Control Systems, Distributed Control and Optimization, and their application in various domains. I am also interested in studying the applications of data driven and learning-based methods in networked systems. 
 - I plan to pursue a PhD starting Fall 2022, in my topics of interest listed above. I consider my graduate studies as a first step towards a career in academia.
 - I have also extensively worked on Computer Vision, Machine Learning and Reinforcement Learning and their applications as the head for the [Computer Vision and Intelligence Group](https://iitmcvg.github.io/) at IIT Madras
-- In my leisure time, I enjoy playing and watching football.
+- In my leisure time, I enjoy playing and watching football(soccer).
