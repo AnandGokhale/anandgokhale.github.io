@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Anand Gokhale"
 title_separator          : "-"
-name                     : &name "Anand Gokhale"
+name                     : &name Anand Gokhale"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anandgokhale.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "AnandGokhale/anandgokhale.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Anand Gokhale"
   avatar           : "profile.jpg"
-  bio              : "Final Year Dual Degree Student, IIT Madras, Specializing in control systems"
-  location         : "IIT Madras, Chennai,Tamil Nadu, India"
+  bio              : "Final Year Dual Degree Student at IIT Madras"
+  location         : "IIT Madras, Chennai, Tamil Nadu, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/AnandGokhale"
   google_plus      :
   keybase          :
   instagram        :
