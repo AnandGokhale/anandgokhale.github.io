@@ -1,7 +1,7 @@
 ---
 title: "Optimizing controllability metrics for target controllability"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2021-12-22-paper-title-number-3
 excerpt: 'This paper presents an algorithm for choosing the best target for optimizing certain metrics.'
 date: 2021-12-22
 venue: 'Accepted at Indian Control Conference,2021'
