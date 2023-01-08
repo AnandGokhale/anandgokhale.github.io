@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Anand Gokhale"
   avatar           : "profile.jpeg"
-  bio              : "Final Year Dual Degree Student at IIT Madras"
-  location         : "IIT Madras, Chennai, Tamil Nadu, India"
+  bio              : "PhD Student, University of California, Santa Barbara"
+  location         : "University of California, Santa Barbara"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ee17b158@smail.iitm.ac.in"
+  googlescholar    : "https://scholar.google.com/citations?user=MBXSYV0AAAAJ&hl=en"
+  email            : "anand_gokhale@ucsb.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
