@@ -30,5 +30,4 @@ Preprints and Publications Under Review
 
 * Alexander Davydov, Veronica Centorrino, <b>Anand Gokhale</b>, Giovanni Russo, and Francesco Bullo. “Contracting Dynamics for Time-Varying Convex Optimization,” <i>IEEE Transactions on Automatic Control</i>, June 2023. [[ URL](https://arxiv.org/abs/2305.15595)]
 
-
-<sup>*</sup> -- These authors contributed equally
+* <b>Anand Gokhale</b>, Alexander Davydov and Francesco Bullo. "Contractivity of Distributed Optimization and Nash Seeking Dynamics" <i>IEEE Control Systems Letters</i>, September 2023 [[ URL](https://arxiv.org/abs/2309.05873)]
