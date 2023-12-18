@@ -15,6 +15,8 @@ Journal Publications
 
 * Veronica Centorrino, <b>Anand Gokhale</b>, Alexander Davydov, Giovanni Russo, and Francesco Bullo. “Euclidean Contractivity of Neural Networks With Symmetric Weights,” <i>IEEE Control Systems Letters</i>, vol. 7, pp. 1724-1729, May 2023. [[DOI](https://doi.org/10.1109/LCSYS.2023.3278250)], [[ URL](https://arxiv.org/abs/2302.13452)]
 
+* <b>Anand Gokhale</b>, Alexander Davydov and Francesco Bullo. "Contractivity of Distributed Optimization and Nash Seeking Dynamics" <i>IEEE Control Systems Letters</i>, September 2023 [[DOI](https://doi.org/10.1109/LCSYS.2023.3341987)]
+
 Conference Publications
 ------
 
@@ -30,4 +32,4 @@ Preprints and Publications Under Review
 
 * Alexander Davydov, Veronica Centorrino, <b>Anand Gokhale</b>, Giovanni Russo, and Francesco Bullo. “Contracting Dynamics for Time-Varying Convex Optimization,” <i>IEEE Transactions on Automatic Control</i>, June 2023. [[ URL](https://arxiv.org/abs/2305.15595)]
 
-* <b>Anand Gokhale</b>, Alexander Davydov and Francesco Bullo. "Contractivity of Distributed Optimization and Nash Seeking Dynamics" <i>IEEE Control Systems Letters</i>, September 2023 [[ URL](https://arxiv.org/abs/2309.05873)]
+* Veronica Centorrino, <b>Anand Gokhale</b>, Alexander Davydov, Giovanni Russo, and Francesco Bullo. "Positive Competitive Networks for Sparse Reconstruction," arXiv preprint [[URL](https://arxiv.org/abs/2311.03821)].
