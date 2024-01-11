@@ -34,4 +34,4 @@ Preprints and Publications Under Review
 
 * Veronica Centorrino, <b>Anand Gokhale</b>, Alexander Davydov, Giovanni Russo, and Francesco Bullo. "Positive Competitive Networks for Sparse Reconstruction," submitted to Neural Computation [[URL](https://arxiv.org/abs/2311.03821)].
 
-* Hadi Raesizadeh, <b>Anand Gokhale</b>, Behrouz Touri, and Soheil Mohajer. "Almost Sure Convergence of Distributed Optimization with Imperfect Information Sharing, ” submitted to Automatica [[URL](https://arxiv.org/abs/2210.05897)]
+* Hadi Reisizadeh, <b>Anand Gokhale</b>, Behrouz Touri, and Soheil Mohajer. "Almost Sure Convergence of Distributed Optimization with Imperfect Information Sharing, ” submitted to Automatica [[URL](https://arxiv.org/abs/2210.05897)]
