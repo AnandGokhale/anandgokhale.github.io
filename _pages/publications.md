@@ -20,16 +20,18 @@ Journal Publications
 Conference Publications
 ------
 
-* Sourav Sahoo, <b>Anand Gokhale</b> and Rachel Kalaimani, "Distributed Online Optimization with Byzantine Adversarial Agents,"  <i>American Control Conference (ACC)</i>, 2022, pp. 222-227, [[DOI](10.23919/ACC53348.2022.9867506)]
+* Sourav Sahoo, <b>Anand Gokhale</b> and Rachel Kalaimani, "Distributed Online Optimization with Byzantine Adversarial Agents,"  <i>American Control Conference (ACC)</i>, 2022, pp. 222-227, [[DOI](https://doi.org/10.23919/ACC53348.2022.9867506)]
 
-* <b>Anand Gokhale</b>, Srighakollapu Manikya Valli and Ramkrishna Pasumarthy, "Measures of Modal Controllability for Network Dynamical Systems,"  <i>Eighth Indian Control Conference (ICC)</i>, 2022, pp. 61-66, [[DOI](10.1109/ICC56513.2022.10093332)]
+* <b>Anand Gokhale</b>, Srighakollapu Manikya Valli and Ramkrishna Pasumarthy, "Measures of Modal Controllability for Network Dynamical Systems,"  <i>Eighth Indian Control Conference (ICC)</i>, 2022, pp. 61-66, [[DOI](https://doi.org/10.1109/ICC56513.2022.10093332)]
 
 
-* <b>Anand Gokhale</b>, Srighakollapu Manikya Valli, Rachel Kalaimani and Ramkrishna Pasumarthy, "Optimizing controllability metrics for target controllability," <i>Seventh Indian Control Conference (ICC)</i>, 2021, pp. 141-146, [[DOI](10.1109/ICC54714.2021.9703184)]
+* <b>Anand Gokhale</b>, Srighakollapu Manikya Valli, Rachel Kalaimani and Ramkrishna Pasumarthy, "Optimizing controllability metrics for target controllability," <i>Seventh Indian Control Conference (ICC)</i>, 2021, pp. 141-146, [[DOI](https://doi.org/10.1109/ICC54714.2021.9703184)]
 
 Preprints and Publications Under Review
 ------
 
 * Alexander Davydov, Veronica Centorrino, <b>Anand Gokhale</b>, Giovanni Russo, and Francesco Bullo. “Contracting Dynamics for Time-Varying Convex Optimization,” <i>IEEE Transactions on Automatic Control</i>, June 2023. [[ URL](https://arxiv.org/abs/2305.15595)]
 
-* Veronica Centorrino, <b>Anand Gokhale</b>, Alexander Davydov, Giovanni Russo, and Francesco Bullo. "Positive Competitive Networks for Sparse Reconstruction," arXiv preprint [[URL](https://arxiv.org/abs/2311.03821)].
+* Veronica Centorrino, <b>Anand Gokhale</b>, Alexander Davydov, Giovanni Russo, and Francesco Bullo. "Positive Competitive Networks for Sparse Reconstruction," submitted to Neural Computation [[URL](https://arxiv.org/abs/2311.03821)].
+
+* Hadi Raesizadeh, <b>Anand Gokhale</b>, Behrouz Touri, and Soheil Mohajer. "Almost Sure Convergence of Distributed Optimization with Imperfect Information Sharing, ” submitted to Automatica [[URL](https://arxiv.org/abs/2210.05897)]
