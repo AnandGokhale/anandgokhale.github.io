@@ -12,7 +12,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 Journal Publications
 ------
 
-* Hadi Reisizadeh, <b>Anand Gokhale</b>, Behrouz Touri, and Soheil Mohajer. "Almost Sure Convergence of Distributed Optimization with Imperfect Information Sharing, ” provisionally accepted at <i>Automatica</i> [[URL](https://arxiv.org/abs/2210.05897)]
+* Hadi Reisizadeh, <b>Anand Gokhale</b>, Behrouz Touri, and Soheil Mohajer. "Almost Sure Convergence of Distributed Optimization with Imperfect Information Sharing," provisionally accepted at <i>Automatica</i> [[URL](https://arxiv.org/abs/2210.05897)]
 
 * Veronica Centorrino, Alexander Davydov, <b>Anand Gokhale</b>, Giovanni Russo, and Francesco Bullo. "On Weakly Contracting Dynamics for Convex Optimization,” <i>IEEE Control Systems Letters</i>, June 2024 [[DOI](https://doi.org/10.1109/LCSYS.2024.3414348)], [[URL](https://arxiv.org/abs/2403.07572)]
 
