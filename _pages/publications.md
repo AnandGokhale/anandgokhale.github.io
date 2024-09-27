@@ -26,7 +26,7 @@ Journal Publications
 Conference Publications
 ------
 
-* Raja Marjieh, <b>Anand Gokhale</b>, Francesco Bullo, and Tom Griffiths, "Task Allocation in Teams as a Multi-Armed Bandits," ACM Collective Intelligence, June 2024. 
+* Raja Marjieh<sup>*</sup>, <b>Anand Gokhale<sup>*</sup></b>, Francesco Bullo, and Tom Griffiths, "Task Allocation in Teams as a Multi-Armed Bandits," ACM Collective Intelligence, June 2024, [[URL](https://cocosci.princeton.edu/papers/marjieh2024task.pdf)] 
 
 * Sourav Sahoo, <b>Anand Gokhale</b> and Rachel Kalaimani, "Distributed Online Optimization with Byzantine Adversarial Agents,"  <i>American Control Conference (ACC)</i>, 2022, pp. 222-227, [[DOI](https://doi.org/10.23919/ACC53348.2022.9867506)]
 
