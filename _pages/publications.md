@@ -28,8 +28,6 @@ Conference Publications
 
 * Abed Musaffar<sup>*</sup>, <b>Anand Gokhale<sup>*</sup></b>, Sirui Zeng, Rasta Tadayon, Xifeng Yan, Ambuj Singh and Francesco Bullo, "Learning to Lie: Adversarial Attacks Driven by Reinforcement Learning Damage Human-AI Teams and LLMs," Accepted as a spotlight presentation, ICLR Human AI Coevolution Workshop, April 2025, [[URL](https://arxiv.org/abs/2503.21983)] 
 
-
-
 * Raja Marjieh<sup>*</sup>, <b>Anand Gokhale<sup>*</sup></b>, Francesco Bullo, and Tom Griffiths, "Task Allocation in Teams as a Multi-Armed Bandits," ACM Collective Intelligence, June 2024, [[URL](https://cocosci.princeton.edu/papers/marjieh2024task.pdf)] 
 
 * Sourav Sahoo, <b>Anand Gokhale</b> and Rachel Kalaimani, "Distributed Online Optimization with Byzantine Adversarial Agents,"  <i>American Control Conference (ACC)</i>, 2022, pp. 222-227, [[DOI](https://doi.org/10.23919/ACC53348.2022.9867506)]
