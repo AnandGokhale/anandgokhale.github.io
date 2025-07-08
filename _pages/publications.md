@@ -22,7 +22,7 @@ Journal Publications
 
 * Alexander Davydov, Veronica Centorrino, <b>Anand Gokhale</b>, Giovanni Russo, and Francesco Bullo. "Time-Varying Convex Optimization: A Contraction and Equilibrium Tracking Approach” submitted to <i>IEEE Transactions on Automatic Control</i>, June 2023. [[DOI](https://doi.org/10.1109/TAC.2025.3576043})] [[URL](https://arxiv.org/abs/2305.15595)]
 
-* Hadi Reisizadeh, <b>Anand Gokhale</b>, Behrouz Touri, and Soheil Mohajer. "Almost Sure Convergence of Distributed Optimization with Imperfect Information Sharing," <i>Automatica</i> [[URL](https://arxiv.org/abs/2210.05897)]
+* Hadi Reisizadeh, <b>Anand Gokhale</b>, Behrouz Touri, and Soheil Mohajer. "Almost Sure Convergence of Distributed Optimization with Imperfect Information Sharing," <i>Automatica</i>.  [[DOI](https://doi.org/10.1016/j.automatica.2025.112391)] [[URL](https://arxiv.org/abs/2210.05897)]
 
 * <b>Anand Gokhale</b>, Alexander Davydov and Francesco Bullo. "Proximal Gradient Dynamics: Monotonicity, Exponential Convergence, and Applications," submitted to <i>IEEE Control Systems Letters</i>, September 2024. [[DOI](https://doi.org/10.1109/LCSYS.2024.3516632)] [[URL](https://arxiv.org/abs/2409.10664)]
 
