@@ -8,11 +8,23 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=MBXSYV0AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 
+Preprints and Publications Under Review
+------
+
+* <b>Anand Gokhale</b>, Vaibhav Srivastava, and Francesco Bullo, "LTLCrit: A Temporal Logic-based LLM Critic for Safe and Efficient Embodied Agents", Arxiv, 2025, [[URL](https://arxiv.org/abs/2507.03293)]
+
+
+
+
 
 Journal Publications
 ------
 
-* Hadi Reisizadeh, <b>Anand Gokhale</b>, Behrouz Touri, and Soheil Mohajer. "Almost Sure Convergence of Distributed Optimization with Imperfect Information Sharing," provisionally accepted at <i>Automatica</i> [[URL](https://arxiv.org/abs/2210.05897)]
+* Alexander Davydov, Veronica Centorrino, <b>Anand Gokhale</b>, Giovanni Russo, and Francesco Bullo. "Time-Varying Convex Optimization: A Contraction and Equilibrium Tracking Approach” submitted to <i>IEEE Transactions on Automatic Control</i>, June 2023. [[DOI](https://doi.org/10.1109/TAC.2025.3576043})] [[URL](https://arxiv.org/abs/2305.15595)]
+
+* Hadi Reisizadeh, <b>Anand Gokhale</b>, Behrouz Touri, and Soheil Mohajer. "Almost Sure Convergence of Distributed Optimization with Imperfect Information Sharing," <i>Automatica</i> [[URL](https://arxiv.org/abs/2210.05897)]
+
+* <b>Anand Gokhale</b>, Alexander Davydov and Francesco Bullo. "Proximal Gradient Dynamics: Monotonicity, Exponential Convergence, and Applications," submitted to <i>IEEE Control Systems Letters</i>, September 2024. [[DOI](https://doi.org/10.1109/LCSYS.2024.3516632)] [[URL](https://arxiv.org/abs/2409.10664)]
 
 * Veronica Centorrino, Alexander Davydov, <b>Anand Gokhale</b>, Giovanni Russo, and Francesco Bullo. "On Weakly Contracting Dynamics for Convex Optimization,” <i>IEEE Control Systems Letters</i>, June 2024 [[DOI](https://doi.org/10.1109/LCSYS.2024.3414348)], [[URL](https://arxiv.org/abs/2403.07572)]
 
@@ -37,9 +49,3 @@ Conference Publications
 
 * <b>Anand Gokhale</b>, Srighakollapu Manikya Valli, Rachel Kalaimani and Ramkrishna Pasumarthy, "Optimizing controllability metrics for target controllability," <i>Seventh Indian Control Conference (ICC)</i>, 2021, pp. 141-146, [[DOI](https://doi.org/10.1109/ICC54714.2021.9703184)]
 
-Preprints and Publications Under Review
-------
-
-* Alexander Davydov, Veronica Centorrino, <b>Anand Gokhale</b>, Giovanni Russo, and Francesco Bullo. “Contracting Dynamics for Time-Varying Convex Optimization,” submitted to <i>IEEE Transactions on Automatic Control</i>, June 2023. [[URL](https://arxiv.org/abs/2305.15595)]
-
-* <b>Anand Gokhale</b>, Alexander Davydov and Francesco Bullo. "Proximal Gradient Dynamics: Monotonicity, Exponential Convergence, and Applications," submitted to <i>IEEE Control Systems Letters</i>, September 2024, [[URL](https://arxiv.org/abs/2409.10664)]
