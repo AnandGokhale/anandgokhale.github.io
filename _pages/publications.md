@@ -11,7 +11,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 Preprints and Publications Under Review
 ------
 
-* <b>Anand Gokhale</b>, Vaibhav Srivastava, and Francesco Bullo, "LTLCrit: A Temporal Logic-based LLM Critic for Safe and Efficient Embodied Agents", Arxiv, 2025, [[URL](https://arxiv.org/abs/2507.03293)]
+* <b>Anand Gokhale</b>, Vaibhav Srivastava, and Francesco Bullo, "LogicGuard: Improving embodied LLM agents through temporal logic based critics",
+Submitted to ICLR 2026, [[URL](https://arxiv.org/abs/2507.03293)]
 
 
 
