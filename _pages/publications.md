@@ -16,7 +16,7 @@ Preprints and Publications Under Review
 
 
 
-* <b>Anand Gokhale</b>, Anton V Proskurnikov, Yu Kawano, and Francesco Bullo, "Contracting Neural Networks: Sharp LMI Conditions with Applications to Integral Control and Deep Learning", Submitted to CDC 2026 [[URL](https://arxiv.org/abs/2604.15238)]
+* <b>Anand Gokhale</b>, Anton V Proskurnikov, Yu Kawano, and Francesco Bullo, "Contracting Neural Networks: Sharp LMI Conditions with Applications to Integral Control and Deep Learning", Submitted to CDC 2026 [[URL](https://arxiv.org/abs/2604.00119)]
 
 
 
