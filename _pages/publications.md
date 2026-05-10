@@ -11,8 +11,16 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 Preprints and Publications Under Review
 ------
 
-* <b>Anand Gokhale</b>, Vaibhav Srivastava, and Francesco Bullo, "LogicGuard: Improving embodied LLM agents through temporal logic based critics",
-Submitted to ICLR 2026, [[URL](https://arxiv.org/abs/2507.03293)]
+
+* <b>Anand Gokhale</b>, Anton V Proskurnikov, Yu Kawano, and Francesco Bullo, "A Nonlinear Separation Principle: Applications to Neural Networks, Control and Learning", Submitted to TAC [[URL](https://arxiv.org/abs/2604.15238)]
+
+
+
+* <b>Anand Gokhale</b>, Anton V Proskurnikov, Yu Kawano, and Francesco Bullo, "Contracting Neural Networks: Sharp LMI Conditions with Applications to Integral Control and Deep Learning", Submitted to CDC 2026 [[URL](https://arxiv.org/abs/2604.15238)]
+
+
+
+* <b>Anand Gokhale</b>, Vaibhav Srivastava, and Francesco Bullo, "LogicGuard: Improving embodied LLM agents through temporal logic based critics", [[URL](https://arxiv.org/abs/2507.03293)]
 
 
 
@@ -39,7 +47,7 @@ Journal Publications
 Conference Publications
 ------
 
-* Abed Musaffar<sup>*</sup>, <b>Anand Gokhale<sup>*</sup></b>, Sirui Zeng, Rasta Tadayon, Xifeng Yan, Ambuj Singh and Francesco Bullo, "Learning to Lie: Adversarial Attacks Driven by Reinforcement Learning Damage Human-AI Teams and LLMs," Accepted as a spotlight presentation, ICLR Human AI Coevolution Workshop, April 2025, [[URL](https://arxiv.org/abs/2503.21983)] 
+* Abed Musaffar<sup>*</sup>, <b>Anand Gokhale<sup>*</sup></b>, Sirui Zeng, Rasta Tadayon, Xifeng Yan, Ambuj Singh and Francesco Bullo, "Learning to Lie: Adversarial Attacks Driven by Reinforcement Learning Damage Human-AI Teams and LLMs," Accepted as a spotlight presentation, ICLR Human AI Coevolution Workshop, April 2025, ICLR 2026 [[URL](https://arxiv.org/abs/2503.21983)] 
 
 * Raja Marjieh<sup>*</sup>, <b>Anand Gokhale<sup>*</sup></b>, Francesco Bullo, and Tom Griffiths, "Task Allocation in Teams as a Multi-Armed Bandits," ACM Collective Intelligence, June 2024, [[URL](https://cocosci.princeton.edu/papers/marjieh2024task.pdf)] 
 
